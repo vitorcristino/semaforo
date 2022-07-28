@@ -1,1 +1,2 @@
 # Semáforo
+Feito com JavaScript
